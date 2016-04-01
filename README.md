@@ -1,2 +1,1 @@
-# Split
-# sqlite-test
+# sqlite
